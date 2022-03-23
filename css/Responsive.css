@@ -38,6 +38,9 @@
     .black_menu{
         display: none;
     }
+    .list{
+        display: none;
+    }
     .navigation_menu{
         display: none;
     }
